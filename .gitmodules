@@ -1,3 +1,6 @@
 [submodule "submodules/tomorrow-theme"]
 	path = submodules/tomorrow-theme
 	url = https://github.com/chriskempson/tomorrow-theme.git
+[submodule "bundle/vundle"]
+	path = bundle/vundle
+	url = https://github.com/gmarik/vundle.git
